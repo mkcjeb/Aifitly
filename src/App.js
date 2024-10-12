@@ -35,10 +35,10 @@ function App() {
     setLoading(true); // Set loading state to true
     setError(null); // Reset error state
     // Fetch request
-    fetch('https://data.fleak.ai/api/v1/events/357a00d8-7eaf-4bf1-aa7d-b0c5e1691133/dev', {
+    fetch('API_ENDPOINT', {
       method: 'POST',
       headers: {
-        'api-key': 'ak_n8R9NoixBdnIENeYrQq6NTOsgiFmAUf0', // Ensure to replace this with your actual API key
+        'api-key': 'API_KEY', // Ensure to replace this with your actual API key
         'Content-Type': 'application/json',
       },
       body: JSON.stringify([formData]), // Use the formData directly
