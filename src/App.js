@@ -38,7 +38,7 @@ function App() {
     setError(null); // Reset error state
 
     // Fetch request
-    fetch('API_ENDPOINT', {
+    fetch('https://data.fleak.ai/api/v1/events/c431c4f6-33e6-4e65-b70c-f84de446326e/dev', {
       method: 'POST',
       headers: {
         'api-key': 'API_KEY', // Ensure to replace this with your actual API key
