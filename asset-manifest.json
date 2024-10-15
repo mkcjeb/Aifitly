@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aifitly/static/css/main.1de0fcaa.css",
+    "main.js": "/Aifitly/static/js/main.d053123f.js",
+    "static/js/453.2b64cafb.chunk.js": "/Aifitly/static/js/453.2b64cafb.chunk.js",
+    "index.html": "/Aifitly/index.html",
+    "main.1de0fcaa.css.map": "/Aifitly/static/css/main.1de0fcaa.css.map",
+    "main.d053123f.js.map": "/Aifitly/static/js/main.d053123f.js.map",
+    "453.2b64cafb.chunk.js.map": "/Aifitly/static/js/453.2b64cafb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1de0fcaa.css",
+    "static/js/main.d053123f.js"
+  ]
+}
